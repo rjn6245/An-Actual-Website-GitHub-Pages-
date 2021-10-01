@@ -9,6 +9,7 @@ The climate is very cold generally, as the permafrost(frozen ground) stays froze
 # Issues
 Due to climate change, the Artic is warming up a lot and the permafrost is melting and realeasing pathogens that have been trapped in the ice for many years, which is a concern. It also changes the types of species that are active, allowing insects and plants to be active there longer throughout the year. There are also fires in Siberia now, which was never really a problem in the Artic before as it was too cool for fire to be able to be there, but as the Tundra warms, stuff is starting to burn, which is a huge concern as the forests of the tundra are vital for carbon management.
 ![fire](fire.jpg)
+credits: google
 #Things we can Do
 We can stop using fossil fuels and transition to cleaner electric methods. We have to do this while still conserving space and making sure that organisms still have their space and are protected
 
