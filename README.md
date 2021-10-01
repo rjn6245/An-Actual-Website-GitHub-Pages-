@@ -12,4 +12,4 @@ Due to climate change, the Artic is warming up a lot and the permafrost is melti
 #Things we can Do
 We can stop using fossil fuels and transition to cleaner electric methods. We have to do this while still conserving space and making sure that organisms still have their space and are protected
 
-**Thank you for reading this!**
+**Thank you for reading this!!**
